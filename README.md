@@ -1,4 +1,4 @@
-<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/DEV.svg"> <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/bugs.svg"> <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/COFFEE.svg">
+# Fernando Carvalhaes
 
 ## hey dev, welcome! 👋
 <br>
@@ -6,8 +6,8 @@
     <li>  🎓 Engenharia de Software - UNICESUMAR </li>
     <li>  🎓 Ciências Contábeis - UNIFRAN </li>
     <li>  💻 Java Fundamentals - Oracle/Senai </li>
-    <li>  💻 Google Cloud Foundations - Google/Senai </li>
     <li>  💻 Programação WEB - UDEMY/COD3R </li>
+    <li>  🌱 Google Cloud Foundations - Google/Senai </li>
     <li>  💼 Work At Magalu </li>
 </ul>
 
@@ -16,21 +16,15 @@
 ### Contact
 <br>
 
-
-
-[![Linkedln](<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/linkedin.svg" width="100" height="35">)](https://www.linkedin.com/in/fernando-carvalhaes-821a97146/)[![Whatsapp]( <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/whatsapp.svg" href="" width="100" height="35">)](https://wa.me/16993641604)
-
-
-
-
-
-
-
-
-
-
+[![Linkedln](https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/linkedin.svg)](https://www.linkedin.com/in/fernando-carvalhaes-821a97146/) [![Whatsapp](https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/whatsapp.svg)](https://wa.me/16993641604)
 
 <!--
+
+### Contribuições Destacadas
+- [Nome do Projeto](Link para o Projeto): Descrição da contribuição e seu impacto.
+- [Nome do Projeto](Link para o Projeto): Descrição da contribuição e seu impacto.
+
+
 **fernandocarvalhaes007/fernandocarvalhaes007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,4 +37,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
 -->
