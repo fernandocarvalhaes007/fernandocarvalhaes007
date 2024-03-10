@@ -1,3 +1,5 @@
+<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/DEV.svg"> <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/bugs.svg"> <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/COFFEE.svg">
+
 ## Hey Dev, seja bem vindo! 👋
 <br>
 <ul style="margin-top: 0px">
