@@ -1,6 +1,6 @@
 # Fernando Carvalhaes
 
-## hey dev, welcome! 👋
+## Hey Dev, Seja bem vindo! 👋
 <br>
 <ul style="margin-top: 0px">
     <li>  🎓 Engenharia de Software - UNICESUMAR </li>
