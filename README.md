@@ -1,4 +1,6 @@
-### Hi there 👋
+[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+### Olá Dev! 👋
 
 <!--
 **fernandocarvalhaes007/fernandocarvalhaes007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
