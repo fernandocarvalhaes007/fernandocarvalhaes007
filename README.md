@@ -1,4 +1,6 @@
-<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/dev.svg" >
+<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/DEV.svg">
+<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/bugs.svg">
+<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/COFFEE.svg">
 
 
 ### Olá Dev! 👋
