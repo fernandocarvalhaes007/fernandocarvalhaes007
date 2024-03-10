@@ -16,7 +16,7 @@
 ### Contact
 <br>
 
-[![Linkedln](https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/linkedin.svg|width=100)](https://www.linkedin.com/in/fernando-carvalhaes-821a97146/) [![Whatsapp](https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/whatsapp.svg|width=100)](https://wa.me/16993641604)
+[![Linkedln](https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/linkedin.svgwidth=100)](https://www.linkedin.com/in/fernando-carvalhaes-821a97146/) [![Whatsapp](https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/whatsapp.svg|width=100)](https://wa.me/16993641604)
 
 
 <!--
