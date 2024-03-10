@@ -1,4 +1,4 @@
-## Hey Dev, Seja bem vindo! 👋
+## Hey Dev, seja bem vindo! 👋
 <br>
 <ul style="margin-top: 0px">
     <li>  🎓 Engenharia de Software - UNICESUMAR </li>
