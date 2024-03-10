@@ -12,10 +12,10 @@
 </ul>
 
 <br>
-###Contact
+### Contact
 <br>
 
-<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/linkedin.svg" href = "https://www.linkedin.com/in/fernando-carvalhaes-821a97146/" width="237" height="35"> <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/whatsapp.svg" href = "https://wa.me/16993641604" width="237" height="35">
+<img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/linkedin.svg" href = "https://www.linkedin.com/in/fernando-carvalhaes-821a97146/" width="20" height="35"> <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/whatsapp.svg" href = "https://wa.me/16993641604" width="237" height="35">
 
 
 
