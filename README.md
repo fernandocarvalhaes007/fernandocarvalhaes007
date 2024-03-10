@@ -1,5 +1,3 @@
-# Fernando Carvalhaes
-
 ## Hey Dev, Seja bem vindo! 👋
 <br>
 <ul style="margin-top: 0px">
