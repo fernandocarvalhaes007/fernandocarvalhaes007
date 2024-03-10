@@ -1,7 +1,7 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
+<svg xmlns="dev.svg" width="237.7875213623047" height="35" viewBox="0 0 237.7875213623047 35"><rect width="88.21250915527344" height="35" fill="#2f4858"/><rect x="88.21250915527344" width="149.57501220703125" height="35" fill="#035c67"/><text x="44.10625457763672" y="17.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" alignment-baseline="middle" letter-spacing="2">BUILT BY</text><text x="163.00001525878906" y="17.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" alignment-baseline="middle" letter-spacing="2">DEVELOPER &lt;/&gt;</text></svg>
 
 
-<svg xmlns="built-by-developer-_.svg" width="237.7875213623047" height="35" viewBox="0 0 237.7875213623047 35"><rect width="88.21250915527344" height="35" fill="#2f4858"/><rect x="88.21250915527344" width="149.57501220703125" height="35" fill="#035c67"/><text x="44.10625457763672" y="17.5" font-size="12" font-family="'Roboto', sans-serif" fill="#FFFFFF" text-anchor="middle" alignment-baseline="middle" letter-spacing="2">BUILT BY</text><text x="163.00001525878906" y="17.5" font-size="12" font-family="'Montserrat', sans-serif" fill="#FFFFFF" text-anchor="middle" font-weight="900" alignment-baseline="middle" letter-spacing="2">DEVELOPER &lt;/&gt;</text></svg>
 ### Olá Dev! 👋
 
 <!--
