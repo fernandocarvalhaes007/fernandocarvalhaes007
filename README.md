@@ -1,9 +1,9 @@
 <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/DEV.svg"> <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/bugs.svg"> <img src="https://github.com/fernandocarvalhaes007/fernandocarvalhaes007/blob/main/COFFEE.svg">
 
 ## Hey Dev, seja bem vindo! 👋
-<br>
 
 ### Sobre mim
+<br>
 <ul style="margin-top: 0px">
     <li>  🎓 Engenharia de Software - UNICESUMAR </li>
     <li>  🎓 Ciências Contábeis - UNIFRAN </li>
