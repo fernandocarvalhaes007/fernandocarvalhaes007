@@ -2,7 +2,7 @@
 
 ## Hey Dev, seja bem vindo! 👋
 
-## Sobre mim
+### Sobre mim
 <ul style="margin-top: 0px">
     <li>  🎓 Engenharia de Software - UNICESUMAR </li>
     <li>  🎓 Ciências Contábeis - UNIFRAN </li>
