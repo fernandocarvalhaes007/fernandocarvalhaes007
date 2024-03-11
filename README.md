@@ -3,7 +3,6 @@
 ## Hey Dev, seja bem vindo! 👋
 
 ### Sobre mim
-<br>
 <ul style="margin-top: 0px">
     <li>  🎓 Engenharia de Software - UNICESUMAR </li>
     <li>  🎓 Ciências Contábeis - UNIFRAN </li>
